@@ -1,0 +1,1 @@
+{"platform":"android","groupList":["default"],"collisionMatrix":[[true]],"hasResourcesBundle":false,"hasStartSceneBundle":false,"remoteBundles":false,"subpackages":[],"launchScene":"db://assets/MainScene.fire","orientation":"","server":"","jsList":[],"bundleVers":{"internal":"5866f","MiniTaiXiu":"4e7b3","main":"2672a"}}
